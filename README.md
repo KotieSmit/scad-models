@@ -2,5 +2,5 @@
 Collection of models
 
 
-corsa-window-guide.scad
+opel-corsa-window-guide.scad.scad
 - Opel corsa back door window (electric) guide 
